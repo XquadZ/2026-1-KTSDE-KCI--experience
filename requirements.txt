@@ -1,0 +1,21 @@
+# Core Scientific Libraries
+numpy
+scipy
+pandas
+
+# Image Processing & Utilities
+Pillow
+tqdm
+tabulate
+
+# Deep Learning Frameworks
+torch
+torchvision
+
+# Object Detection Models & APIs
+ultralytics
+transformers
+pycocotools
+
+# Ensemble Algorithms
+ensemble-boxes
